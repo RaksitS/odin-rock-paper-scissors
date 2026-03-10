@@ -1,4 +1,4 @@
-﻿Rock Paper Scissors game on browser.
+##﻿Rock Paper Scissors Game
 
 This is the part of Odin Project in JavaScript Foundation course. I build the game of "Rock Paper Scissors" by using knowledge and concepts within the Odin Project's course.
 
@@ -18,3 +18,4 @@ This is the part of Odin Project in JavaScript Foundation course. I build the ga
 ## Built With:
 - HTML5
 - JavaScript
+
