@@ -10,13 +10,14 @@ This is the part of Odin Project in JavaScript Foundation course. I build the ga
 2. Uses 'toLowerCase()' to make sure that user input isn't case-sensitive.
 3. Uses 'playGame()' to build loop of 5-round game.
 
-## What I learn
+## What i learn
 - The use of 'for' loop for playing game multiple rounds. I feel it is a bit tricky at first, but still manage to work it through.
 - The use of 'if/else' logic to map game rule's condition.
 
-## Built With:
+## Built with:
 - HTML5
 - JavaScript
+
 
 
 
