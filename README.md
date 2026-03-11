@@ -2,7 +2,7 @@
 This is the part of Odin Project in JavaScript Foundation course. I build the game of "Rock Paper Scissors" by using knowledge and concepts within the Odin Project's course.
 
 ## How to play
-1. open 'index.html'.
+1. Open 'index.html'.
 2. Enter your move (Rock, Paper, or Scissors) on the pop-up prompt.
 
 ## How it works
@@ -17,6 +17,7 @@ This is the part of Odin Project in JavaScript Foundation course. I build the ga
 ## Built With:
 - HTML5
 - JavaScript
+
 
 
 
